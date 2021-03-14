@@ -20,7 +20,7 @@ gem 'jekyll-seo-tag', "~> 2.6.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.13.0"
+  gem "jekyll-feed", "~> 0.15.1"
   gem "jekyll-paginate"
   gem 'jemoji'
 end
